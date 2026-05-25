@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
   <p>Visitor count</p>
-![GitHub Views](https://komarev.com/ghpvc/?Shainaroyyy=<Shainaroyyy>)
-</div>
+![](https://komarev.com/ghpvc/?username=Shainaroyyy&color=green)
