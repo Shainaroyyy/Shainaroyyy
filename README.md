@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/Shainaroyyy/count.svg" alt="Visitor's Count" />
+![GitHub Views](https://komarev.com/ghpvc/?Shainaroyyy=<Shainaroyyy>)
 </div>
