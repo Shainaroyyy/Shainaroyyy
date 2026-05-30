@@ -1,4 +1,4 @@
-## Hi there 👋
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave)
 
 <!--
 **Shainaroyyy/Shainaroyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
