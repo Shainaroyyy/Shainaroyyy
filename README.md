@@ -27,6 +27,11 @@
 </a>
 </p>
 
+<h3 align="center">Tech Stack</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,python,java,js,react,nodejs,git" />
+</p>
 
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave)
 
