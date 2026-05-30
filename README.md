@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e0b7eb93-ceab-4611-90b6-7d3fc1a45507" width="110%">
+</p>
 <h1 align="center">
  SHAINA ROY
 </h1>
