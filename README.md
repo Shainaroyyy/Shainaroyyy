@@ -10,25 +10,24 @@
 </p>
 
 <h3 align="center">
- Connect with Me
-</h3>
+
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/shainaroyyy/">
+    <img src="https://img.shields.io/badge/LinkedIn-D69A9A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  
+  <a href="https://github.com/Shainaroyyy">
+    <img src="https://img.shields.io/badge/GitHub-D69A9A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://x.com/ShainaRoyyy">
+    <img src="https://img.shields.io/badge/Twitter-D69A9A?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/shainaroyyy/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://x.com/ShainaRoyyy">
-<img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-
-<a href="https://github.com/Shainaroyyy">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
 
 <h3 align="center">Tech Stack</h3>
 
@@ -48,3 +47,4 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shainaroyyy&bg_color=0d1117&color=D69A9A&line=D69A9A&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
