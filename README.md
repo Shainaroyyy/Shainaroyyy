@@ -35,12 +35,13 @@
 <br>
 <br>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shainaroyyy&theme=react-dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shainaroyyy&theme=tokyonight" />
 </p>
+
 
 <br>
 <br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shainaroyyy&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shainaroyyy&theme=react-dark" />
 </p>
