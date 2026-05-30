@@ -38,7 +38,7 @@
 <br>
 <br>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shainaroyyy&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&background=0D1117&border=D69A9A&ring=D69A9A&fire=D69A9A&currStreakNum=D69A9A&sideNums=D69A9A&currStreakLabel=D69A9A&sideLabels=D69A9A&dates=FFFFFF&excludeDaysLabel=D69A9A&stroke=D69A9A" />
 </p>
 
 
