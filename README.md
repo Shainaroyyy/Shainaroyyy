@@ -1,5 +1,5 @@
 <h1 align="center">
- Shaina Roy
+ SHAINA ROY
 </h1>
 
 <p align="center">
@@ -32,19 +32,15 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,python,java,js,react,nodejs,git" />
 </p>
-
+<br>
+<br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shainaroyyy&theme=react-dark" />
 </p>
 
+<br>
+<br>
 
 <p align="center">
-  <a href="https://github.com/Shainaroyyy">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Shaina Roy" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shainaroyyy&theme=tokyonight" />
 </p>
-
-
-
-<div align="center">   
-  <p>Visitor count</p>
-![](https://komarev.com/ghpvc/?username=Shainaroyyy&color=green)
