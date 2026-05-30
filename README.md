@@ -2,6 +2,20 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=28&pause=1200&color=C87F7F&center=true&vCenter=true&width=700&lines=Welcome+to+Shaina+Roy's+Github;CSE+Sophomore;Working+as+Hard+as+I+must;Avgeek+at+Heart" />
 </p>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/shainaroyyy/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/ShainaRoyyy">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="https://github.com/Shainaroyyy">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave)
 
 <p align="center">
