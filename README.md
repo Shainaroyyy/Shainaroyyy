@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=28&pause=1200&color=C87F7F&center=true&vCenter=true&width=700&lines=CSE+Sophomore;Welcome+to+Shaina+Roy's+Github;Working+as+Hard+as+I+must;Avgeek+at+Heart" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=28&pause=1200&color=C87F7F&center=true&vCenter=true&width=700&lines=Welcome+to+Shaina+Roy's+Github;CSE+Sophomore;Working+as+Hard+as+I+must;Avgeek+at+Heart" />
 </p>
 
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave)
