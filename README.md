@@ -1,9 +1,13 @@
+<h1 align="center">
+ Shaina Roy
+</h1>
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=28&pause=1200&color=C87F7F&center=true&vCenter=true&width=700&lines=Welcome+to+Shaina+Roy's+Github;CSE+Sophomore;Working+as+Hard+as+I+must;Avgeek+at+Heart" />
 </p>
 
 <h3 align="center">
- Build • Break • Repeat
+ Connect with Me
 </h3>
 
 <p align="center">
