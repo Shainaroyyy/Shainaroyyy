@@ -37,7 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 </p>
 
-https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave
+<!--  -->![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave)
 
 <p align="center">
   <a href="https://github.com/Shainaroyyy">
