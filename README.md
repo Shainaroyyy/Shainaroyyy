@@ -34,16 +34,14 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=show_icons=true&theme=tokyonight" />
 </p>
 
-<!--  -->![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave)
 
 <p align="center">
   <a href="https://github.com/Shainaroyyy">
     <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Shaina Roy" /></a>
 </p>
-
 
 
 
