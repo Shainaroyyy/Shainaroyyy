@@ -1,8 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+Shaina+Roy's+Github;AI+Explorer;Building+Projects;Always+Learning" />
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=28&pause=1200&color=C87F7F&center=true&vCenter=true&width=700&lines=IGDTUW+CSE+'29;Welcome+to+Shaina+Roy's+Github;AI+%26+Machine+Learning;Building+Projects+Every+Day" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&size=28&pause=1200&color=C87F7F&center=true&vCenter=true&width=700&lines=CSE+Sophomore;Welcome+to+Shaina+Roy's+Github;Working+as+Hard+as+I+must;Avgeek+at+Heart" />
 </p>
 
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=Shainaroyyy&theme=synthwave)
